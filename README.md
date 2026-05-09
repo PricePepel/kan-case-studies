@@ -32,4 +32,4 @@ Anything redacted is marked. NDA-bound details are described at architecture lev
 
 [Kan](https://github.com/PricePepel), AI integration for SaaS founders, based in Tashkent (GMT+5).
 
-Booking projects for June 2026 onwards. Discovery call, quote within 48 hours, fixed scope, flat fee. See [the portfolio](https://kan-portfolio-pricepepel.vercel.app) for current pricing or email [nicetryskrock@gmail.com](mailto:nicetryskrock@gmail.com).
+Booking projects for June 2026 onwards. Discovery call, quote within 48 hours, fixed scope, flat fee. See [the portfolio](https://kan-portfolio-pricepepels-projects.vercel.app) for current pricing or email [nicetryskrock@gmail.com](mailto:nicetryskrock@gmail.com).
