@@ -2,7 +2,7 @@
 
 Production work shipped 2025-2026. Each writeup is a real project: the problem, the architecture, the actual decisions, and the verification that proves it shipped.
 
-Most projects ran on a vibe-coded workflow with Claude Code. Code samples, where included, are the actual code, not paraphrased.
+Most were built with Claude Code as a pairing partner. Code samples, where included, are the actual code, not paraphrased.
 
 | Project | Year | Status | Stack |
 |---|---|---|---|
@@ -30,6 +30,6 @@ Anything redacted is marked. NDA-bound details are described at architecture lev
 
 ## About the engineer
 
-[Kan](https://github.com/PricePepel), AI integration for SaaS founders, based in Tashkent (GMT+5).
+[Ruslan Kan](https://github.com/PricePepel): Lead Software Developer at Bloomin, CTO of samanTA, and CS student at Minerva University (class of 2030).
 
-Booking projects for June 2026 onwards. Discovery call, quote within 48 hours, fixed scope, flat fee. See [the portfolio](https://kan-portfolio-pricepepels-projects.vercel.app) for current pricing or email [nicetryskrock@gmail.com](mailto:nicetryskrock@gmail.com).
+I'm looking for a Summer 2027 software engineering internship. See [the portfolio](https://kan-portfolio-one.vercel.app) or email [ruslan.kan@uni.minerva.edu](mailto:ruslan.kan@uni.minerva.edu).
